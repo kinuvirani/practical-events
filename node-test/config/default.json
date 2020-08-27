@@ -1,0 +1,6 @@
+{
+  "keys": {
+    "jwt_secret_key": "logicwind123",
+    "password_key": "logic2018wind"
+  }
+}
